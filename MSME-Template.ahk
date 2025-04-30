@@ -22,15 +22,22 @@
 ;address
 ::cadd::
 ::ladd::
-::flat/ door/ block no::
-::name of premises/ building::
-::village/town::
-::block/road/ street/ lane::
+::flat::
+::door::
+::blockno::
+::premises::
+::building::
+::village::
+::town::
+::block::
+::road::
+::street::
+::lane::
 ::city::
 ::pin::
 ::state::
 ::district::
 
-::bank name::
+::bankname::
 ::6026::
 ::ifsc::
