@@ -1,4 +1,4 @@
-﻿;to autofill udyum aader
+﻿;TO AUTOFILL UDYAM AADHAR
 
 ::fullname::
 ::fname::
@@ -15,24 +15,22 @@
 ::mobile::
 ::7666::
 
+
 ::pemail::
 ::email::
 
+;address
 ::cadd::
 ::ladd::
-::Flat/ Door/ Block No::
-::Name of Premises/ Building::
-::Village/Town::
-::Block/Road/ Street/ Lane::
-::City::
-::Pin::
-::State::
-::District::
+::flat/ door/ block no::
+::name of premises/ building::
+::village/town::
+::block/road/ street/ lane::
+::city::
+::pin::
+::state::
+::district::
 
-
-::sbi Card::
-::expiry::
-
-::Bank Name::
+::bank name::
 ::6026::
-::mahaifsc::
+::ifsc::
