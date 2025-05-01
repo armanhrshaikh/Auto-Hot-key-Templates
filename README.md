@@ -1,4 +1,4 @@
-# Auto Hot Key Templates
+#Auto Hot Key Templates
 
 **Ideal for all business or personal tasks that require auto-fill or auto-type.**
 
@@ -9,3 +9,4 @@
 3. Speeding up data entry in spreadsheets or CRM systems<br>
 
 4. Completing repetitive text entries in emails or documents<br>
+
