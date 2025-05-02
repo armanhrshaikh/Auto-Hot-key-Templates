@@ -74,8 +74,6 @@
 ::CGPA::
 ::Board::
 
----
-
 ;SECTION 5: Employment History (if applicable)
 ;For each job: 
 ::EmployerName::
