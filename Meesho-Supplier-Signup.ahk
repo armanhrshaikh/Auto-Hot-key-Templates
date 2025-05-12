@@ -1,3 +1,7 @@
+
+::EmailId::
+::9::   ;mobile number without +91
+
 ;GST Portal for Enrollment ID
 ;https://reg.gst.gov.in/registration/generateuid
 ::NameasperPAN::
